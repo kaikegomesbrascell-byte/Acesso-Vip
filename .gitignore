@@ -1,0 +1,12 @@
+# Arquivos de documentação local (não precisa no deploy)
+MELHORIAS-LP.md
+INSTRUCOES-TELEGRAM.md
+RESUMO-FINAL.md
+
+# Pastas do sistema
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

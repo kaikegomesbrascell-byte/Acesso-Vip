@@ -1,0 +1,11 @@
+{
+  "name": "landing-page-vip",
+  "version": "1.0.0",
+  "description": "Landing Page VIP - Acesso Exclusivo",
+  "scripts": {
+    "build": "echo 'No build needed - static site'"
+  },
+  "keywords": ["landing-page", "static"],
+  "author": "MagoDo78",
+  "license": "MIT"
+}
